@@ -684,6 +684,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [hungarian](https://github.com/mosteo/hungarian) - Ada wrapper for the fast Stachniss' Hungarian solver.
 - [ada-lua](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
 - [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
+- [liburing-ada](https://github.com/docandrew/liburing-ada) - Ada binding for liburing/io_uring (Linux asynchronous I/O API)
 
 ## License
 
